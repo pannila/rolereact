@@ -1,6 +1,6 @@
 {
-  "name": "Test",
-  "description": "Test",
+  "name": "role",
+  "description": "role",
   "version": "0.0.0",
   "main": "role.js",
   "scripts": {
