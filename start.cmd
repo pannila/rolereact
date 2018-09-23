@@ -1,0 +1,2 @@
+node role.js
+pause
