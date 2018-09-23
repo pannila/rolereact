@@ -2,9 +2,9 @@
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "role.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node role.js"
   },
   "dependencies": {
     "array-sort": "1.0.0",
